@@ -9,6 +9,8 @@
   <img align="left" src="https://qiita-badge.apiapi.app/s/guevara-net/followers.svg" />
 </a>
 
+<br />
+<br />
 
 ![taka-guevara's github stats](https://github-readme-stats.vercel.app/api?username=taka-guevara&theme=cobalt&show_icons=true)
 
