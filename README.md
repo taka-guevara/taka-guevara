@@ -11,13 +11,13 @@
 
 <br />
 <br />
-
-![taka-guevara's github stats](https://github-readme-stats.vercel.app/api?username=taka-guevara&theme=cobalt&show_icons=true)
-
-![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=taka-guevara&theme=cobalt&repo=FlutterMessangerApp)
-
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=taka-guevara&theme=cobalt)
-
+# My Github works
+<a href="https://github.com/taka-guevara">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=taka-guevara&theme=cobalt&show_icons=true" />
+</a>
+<a href="https://github.com/taka-guevara">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taka-guevara&theme=cobalt" />
+</a>
 <!--
 **taka-guevara/taka-guevara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
