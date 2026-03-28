@@ -46,16 +46,6 @@ Web アプリケーション開発を専門とするエンジニアです。Type
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taka-guevara&layout=compact&theme=default&hide_border=true" height="165" alt="Top Langs" />
 </p>
 
----
-
-### Writing
-
-AWS Amplify を中心に技術記事を書いています。
-
-- [AWS Amplify DataStoreの遅延ロードと入れ子構造のフィルター機能を試す](https://qiita.com/guevara-net/items/a0d2008d9e9685a2bff0)
-- [目指せAmplifyコントリビューターへの道〜セットアップ編〜](https://qiita.com/guevara-net/items/46697c7254e8be96c247)
-
-More on **[Qiita (@guevara-net)](https://qiita.com/guevara-net)**
 
 ---
 
