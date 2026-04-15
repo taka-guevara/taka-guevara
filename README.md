@@ -28,23 +28,14 @@ Web アプリケーション開発を専門とするエンジニアです。Type
 
 ### Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,java,rust,nodejs,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,java,rust,go,nodejs,aws,gcp,terraform,vercel)](https://skillicons.dev)
 
 | Category | Technologies |
 |---|---|
 | **Frontend** | TypeScript, React, Next.js, Tailwind CSS |
-| **Backend** | Node.js, Java, Rust |
-| **Cloud** | AWS (Amplify, Lambda, DynamoDB, S3) |
+| **Backend** | Node.js, Java, Rust, golang |
+| **Cloud** | AWS (Amplify, Lambda, DynamoDB, S3), GCP, Terraform, Vercel |
 | **Other** | Flutter, Claude Code, Git |
-
----
-
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=taka-guevara&show_icons=true&theme=default&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taka-guevara&layout=compact&theme=default&hide_border=true" height="165" alt="Top Langs" />
-</p>
 
 
 ---
