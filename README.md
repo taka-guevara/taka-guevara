@@ -1,6 +1,6 @@
 <h1 align="center">Kentaro Takata</h1>
 <p align="center">
-  <strong>Full-Stack Engineer / Indie Builder</strong><br/>
+  <strong>Product Engineer / Indie Builder</strong><br/>
   TypeScript | React | Next.js | AWS | Rust
 </p>
 
@@ -20,7 +20,7 @@
 
 ### About
 
-Web アプリケーション開発を専門とするエンジニアです。TypeScript + Next.js を軸に、設計からインフラまで一貫して構築できます。AWS AmplifyやLogtoのOSSコントリビューション経験があり、クラウドネイティブな開発を得意としています。
+Web アプリケーション開発を専門とするプロダクトエンジニアです。TypeScript + Next.js を軸に、設計からインフラまで一貫して構築できます。AWS AmplifyやLogtoのOSSコントリビューション経験があり、クラウドネイティブな開発を得意としています。
 
 個人では Micro SaaS やプロダクト開発に取り組んでおり、「技術で世の中をちょっと良くする」をテーマに活動しています。
 
